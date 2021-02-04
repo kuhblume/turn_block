@@ -1,0 +1,4 @@
+name: First
+version: ${project.version}
+main: first.first.First
+api-version: 1.16
